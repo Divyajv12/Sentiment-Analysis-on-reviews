@@ -1,0 +1,300 @@
+text,sentiment
+"The camera quality on this phone is truly phenomenal in low light.",Positive
+"The battery life is exceptional, easily lasts 2 days on a single charge!",Positive
+"Outstanding customer service and rapid delivery. Highly recommended!",Positive
+"Easily one of the best sci-fi movies I have seen in recent years.",Positive
+"The fabric is so soft and comfortable, fits true to size.",Positive
+"Super fast shipping and the packaging was immaculate and secure.",Positive
+"The sound stage and clarity of these headphones blew me away.",Positive
+"Incredible value for the price, performs much better than expensive competitors.",Positive
+"Staff was remarkably friendly, polite, and attentive during our stay.",Positive
+"The user interface is intuitive, sleek, and very easy to navigate.",Positive
+"The food was exquisitely delicious, fresh, and beautifully presented.",Positive
+"A truly delightful experience from start to finish. Five stars!",Positive
+"Fast processor, crystal clear OLED display, and zero lag during gaming.",Positive
+"I love the minimalist design and the premium feel of the metal chassis.",Positive
+"Customer support resolved my warranty claim in less than ten minutes.",Positive
+"The wireless connection is rock solid, never drops across rooms.",Positive
+"The acting was breathtaking and the soundtrack gave me goosebumps.",Positive
+"This coffee maker brews the richest, smoothest espresso at home.",Positive
+"Very impressed with the build quality and attention to detail.",Positive
+"Exceeded all my expectations. Will definitely purchase again!",Positive
+"The noise cancellation works wonders on flights and busy commutes.",Positive
+"The software update made the entire operating system feel snappy and fresh.",Positive
+"Delicious breakfast buffet with a wide variety of fresh fruit and pastries.",Positive
+"Lightweight, durable, and comfortable to wear for eight hours straight.",Positive
+"Best laptop keyboard I have ever typed on, excellent key travel.",Positive
+"The instructions were clear and straightforward, set it up in five minutes.",Positive
+"Brilliant storyline with surprising plot twists and emotional depth.",Positive
+"The car handles smoothly, offers great fuel economy, and is super quiet.",Positive
+"Top-notch quality materials, feels like a luxury item.",Positive
+"Such a wonderful gift for my family, everyone loved it immediately.",Positive
+"Clean room, comfortable mattress, and spectacular views of the ocean.",Positive
+"The vacuum cleaner has immense suction power and cleans carpets effortlessly.",Positive
+"Smooth transaction, seller communicated proactively and shipped immediately.",Positive
+"The battery charges to full in less than thirty minutes, simply amazing.",Positive
+"A masterpiece of cinema, compelling directing and stunning visuals.",Positive
+"The app works flawlessly without any glitches or bugs.",Positive
+"Warm hospitality and a wonderful ambiance for dinner.",Positive
+"Extremely happy with this purchase, worth every single penny.",Positive
+"Ergonomic mouse that relieved my wrist pain after long work hours.",Positive
+"Crisp bass, clear vocals, and excellent battery life on these earbuds.",Positive
+"The jacket keeps me perfectly warm in freezing winter weather.",Positive
+"Fast and reliable internet connectivity straight out of the box.",Positive
+"The dessert was heavenly, especially the warm chocolate lava cake.",Positive
+"Friendly and competent technical support team, answered all questions.",Positive
+"Compact, elegant design that fits easily in any backpack pocket.",Positive
+"The display is vibrant with deep blacks and great outdoor visibility.",Positive
+"Smooth animation and high refresh rate make browsing a joy.",Positive
+"The blender crushes frozen fruit and ice cubes effortlessly.",Positive
+"Remarkable performance for heavy video editing workflows.",Positive
+"Such a heartwarming and uplifting film for the whole family.",Positive
+"The shoes provide superb arch support and cushioning for runners.",Positive
+"Quick customer care response time and instant refund processing.",Positive
+"The keyboard backlighting is bright, uniform, and customizable.",Positive
+"Fresh ingredients, authentic flavors, and generous portion sizes.",Positive
+"Very sturdy construction, handled accidental drops with zero damage.",Positive
+"The smartwatch accurately tracks sleep stages and workout heart rate.",Positive
+"Great signal range and easy mesh setup throughout the whole house.",Positive
+"The best air purifier we have owned, noticeably reduced dust and allergens.",Positive
+"Polite driver, clean vehicle, and arrived ten minutes ahead of schedule.",Positive
+"The picture quality on this 4K television is vivid and lifelike.",Positive
+"Solid metal hinges, smooth opening, and premium glass trackpad.",Positive
+"A joy to read from cover to cover, highly informative and engaging.",Positive
+"The mattress provides ideal spine alignment and no motion transfer.",Positive
+"Very responsive touchscreen with excellent palm rejection support.",Positive
+"The customer rep went above and beyond to locate my lost parcel.",Positive
+"Superb noise isolation even when working in a noisy coffee shop.",Positive
+"The pizza crust was crispy on the outside and airy on the inside.",Positive
+"Super easy to clean and dishwasher safe, saves so much daily time.",Positive
+"Impressive battery backup that outlasts long international flights.",Positive
+"Spectacular performance upgrade compared to the previous model.",Positive
+"The hotel pool and sauna amenities were clean and relaxing.",Positive
+"Affordable price point without compromising on essential features.",Positive
+"The fragrance is refreshing, subtle, and lasts throughout the day.",Positive
+"Smooth gear shifting and reliable brakes on this commuter bicycle.",Positive
+"Wonderful atmosphere with tasteful background music and decor.",Positive
+"The setup wizard guided me through every step without confusion.",Positive
+"Outstanding durability, looks brand new even after six months of daily use.",Positive
+"The pasta was cooked to al dente perfection with a rich savory sauce.",Positive
+"Fast fingerprint sensor and instantaneous face unlock recognition.",Positive
+"Truly an outstanding experience that I will enthusiastically recommend.",Positive
+"Great product with superb performance and flawless design.",Positive
+"I am thoroughly impressed by how durable and well-crafted this is.",Positive
+"Five stars! Amazing value, fast shipping, and excellent quality.",Positive
+"Everything works exactly as advertised, couldn't be happier with my purchase.",Positive
+"This is hands down the best investment I have made this year.",Positive
+"The team went out of their way to ensure our order arrived on time.",Positive
+"Fabulous product! It has made my daily routine so much easier.",Positive
+"Crystal clear sound, great bass, and very comfortable fit.",Positive
+"Super satisfied with the prompt service and high-quality build.",Positive
+"An absolute pleasure to use, fast, reliable, and beautifully engineered.",Positive
+"Such an enjoyable experience, will recommend to all my friends and colleagues.",Positive
+"The camera captures gorgeous colors and sharp details in all conditions.",Positive
+"Marvelous customer support, resolved my issue within minutes.",Positive
+"Exceptional craftsmanship and attention to detail throughout.",Positive
+"A fantastic upgrade that exceeded all my expectations in every way.",Positive
+"The food tasted wonderful and the staff was extremely courteous.",Positive
+"Very impressed by the battery life, easily gets me through long work days.",Positive
+"Stunning visuals and remarkable audio quality, pure perfection.",Positive
+"Unbeatable price for such high quality, truly a great deal.",Positive
+"Loved everything about this, from easy setup to daily performance.",Positive
+"The screen started flickering and went completely black after three days.",Negative
+"Worst customer support experience ever, they ignored my emails for weeks.",Negative
+"The food arrived cold, spilled all over the bag, and two hours late.",Negative
+"Cheap flimsy plastic material that cracked on the first day of use.",Negative
+"The application crashes every single time I try to complete the checkout.",Negative
+"Complete waste of money, stopped working right after the return window.",Negative
+"The battery drains from full to empty in less than two hours.",Negative
+"Terrible audio quality with constant buzzing and metallic distortion.",Negative
+"The room smelled of stale smoke and the bathroom was utterly filthy.",Negative
+"False advertising, the item looks completely different from the pictures.",Negative
+"The movie was boring, predictable, and had agonizingly slow pacing.",Negative
+"Horrible sizing, ordered a large and it arrived looking like an extra small.",Negative
+"The internet router constantly disconnects and requires daily restarting.",Negative
+"Rude waiter who ignored our table and brought the wrong order twice.",Negative
+"The package arrived crushed and the delicate contents were shattered.",Negative
+"Overpriced and underpowered, struggles to open simple PDF documents.",Negative
+"The software update introduced countless bugs and destroyed performance.",Negative
+"The zipper broke off during the very first week of normal use.",Negative
+"Uncomfortable chair with zero lumbar support, caused severe back pain.",Negative
+"The keyboard has sticky keys and missed keystrokes frequently.",Negative
+"Do not buy this product, it is dangerous and overheats alarmingly.",Negative
+"The meat was tough, dry, and tasted completely unseasoned.",Negative
+"Customer service refused to honor the manufacturer warranty.",Negative
+"The hotel was excessively noisy with thin walls and loud street traffic.",Negative
+"Terrible battery degradation within just one month of light usage.",Negative
+"The film was a massive disappointment with awful dialogue and acting.",Negative
+"The vacuum cleaner has weak suction and clogs on small particles.",Negative
+"Delayed delivery by three weeks without any tracking updates or apology.",Negative
+"The blender motor started smoking during its second use with soft fruit.",Negative
+"Very frustrating user experience with confusing menus and hidden settings.",Negative
+"The shoes gave me painful blisters after walking only fifteen minutes.",Negative
+"Terrible connection stability, Bluetooth disconnects every few minutes.",Negative
+"The soup was way too salty and tasted like canned processed broth.",Negative
+"Cheaply made knockoff that broke within hours of unboxing.",Negative
+"The screen has severe light bleed and dead pixels out of the box.",Negative
+"Poorly written manual full of broken English and missing diagrams.",Negative
+"The ride was bumpy, driver was aggressive and drove dangerously.",Negative
+"The coffee tasted burnt and stale, threw the whole cup away.",Negative
+"Total rip-off, fees were hidden until after the payment went through.",Negative
+"The strap snapped while walking, dropping the expensive watch on concrete.",Negative
+"Awful customer care, waited on hold for forty minutes only to get disconnected.",Negative
+"The camera lenses produce blurry, washed-out images with no contrast.",Negative
+"The bed had broken springs and sagged badly in the middle.",Negative
+"The laptop runs burning hot and the fan sounds like a jet engine.",Negative
+"Extremely disappointed with the poor quality and cheap feel.",Negative
+"The food gave me terrible stomach cramps and food poisoning.",Negative
+"Constant software crashes make this tool unusable for real work.",Negative
+"The color washed out and faded completely after a single cold wash.",Negative
+"Missing critical parts in the box, making assembly impossible.",Negative
+"The plot made zero sense and the ending was completely lazy.",Negative
+"Poor build quality, screws were loose and fell out of the casing.",Negative
+"The air conditioner makes a grinding rattle that keeps everyone awake.",Negative
+"Horrendous return process, they charged a forty percent restocking fee.",Negative
+"The touch sensor is unresponsive and requires multiple hard taps.",Negative
+"The bread was stale and rock hard, utterly inedible.",Negative
+"The paint is peeling off the edges after barely two weeks.",Negative
+"Battery percentage drops erratically from fifty percent straight to zero.",Negative
+"The earbuds fall out constantly during the slightest movement.",Negative
+"Rude desk clerk treated us with utter contempt upon arrival.",Negative
+"The charging port is loose and only charges at a specific angle.",Negative
+"The printer constantly jams paper and burns through expensive ink.",Negative
+"Boring script, wooden acting, and terrible computer-generated effects.",Negative
+"The fabric ripped along the seam the first time I wore it.",Negative
+"Unbelievably slow shipping, package was lost for nearly a month.",Negative
+"The sauce was greasy, separated, and tasted unpleasant.",Negative
+"No customer support email or working phone number to contact.",Negative
+"The remote control stopped functioning after only three days.",Negative
+"The microwave plate does not rotate and heats unevenly.",Negative
+"Very misleading product description that leaves out critical limitations.",Negative
+"The hotel elevator was broken and we had to drag heavy luggage five floors.",Negative
+"Fragile casing that chipped immediately when placed on a wooden desk.",Negative
+"The app is bloated with intrusive ads that cover the main buttons.",Negative
+"Disgusting restroom facilities with no soap or running hot water.",Negative
+"The headphones leak sound heavily and anyone nearby can hear your music.",Negative
+"The pizza was completely burnt on the bottom with raw dough in the center.",Negative
+"Customer rep was hostile and refused to listen to the issue.",Negative
+"The cable frayed at the connector within two weeks of light use.",Negative
+"A miserable experience that ruined our entire weekend plans.",Negative
+"The device stopped powering on completely, dead brick after a month.",Negative
+"Terrible product that broke within twenty-four hours of arrival.",Negative
+"Waste of money and time, totally useless and poorly designed.",Negative
+"Disastrous experience, the order never arrived and no refund was given.",Negative
+"Horrible customer service, rude representatives and unhelpful automated bots.",Negative
+"Very bad quality, cheap materials that smell awful and break easily.",Negative
+"The phone freezes constantly and reboots itself multiple times an hour.",Negative
+"Awful food that was cold, undercooked, and tasted dreadful.",Negative
+"I regret buying this item, complete disappointment and substandard performance.",Negative
+"The app is riddled with bugs, lag, and constant unexpected crashes.",Negative
+"Worst purchase I have made online, misleading description and zero support.",Negative
+"The package arrived severely damaged with broken parts inside.",Negative
+"Unreliable device with atrocious battery life and constant disconnects.",Negative
+"Never buying from this seller again, terrible experience from start to finish.",Negative
+"Extremely noisy, overheats quickly, and failed after three days.",Negative
+"Defective product that refused to power on straight out of the box.",Negative
+"The sound is tinny, hollow, and painfully muffled with constant static.",Negative
+"Poorly manufactured item with sharp rough edges and flimsy joints.",Negative
+"The screen is unresponsive and plagued with dead pixels and discoloration.",Negative
+"Unsatisfactory experience, slow response and unhelpful responses from staff.",Negative
+"Completely unacceptable service, charged twice and refused to reverse the transaction.",Negative
+"The package arrived on Tuesday as scheduled by the delivery courier.",Neutral
+"The smartphone features a 6.1-inch OLED screen and weighs 170 grams.",Neutral
+"The restaurant offers indoor seating and an outdoor patio section.",Neutral
+"The package includes a USB-C charging cable and a quick start guide.",Neutral
+"The hotel check-in begins at 3 PM and check-out is at 11 AM.",Neutral
+"The software update was released on October 14th as version 2.4.",Neutral
+"The movie has a runtime of two hours and fifteen minutes.",Neutral
+"The laptop has 16 gigabytes of RAM and a 512 gigabyte solid state drive.",Neutral
+"The shirt is manufactured from a sixty percent cotton and forty percent polyester blend.",Neutral
+"The car is available in three exterior colors: silver, white, and black.",Neutral
+"The average wait time for customer service was around six minutes.",Neutral
+"The flight departed from gate B12 after a scheduled crew change.",Neutral
+"The dish consists of grilled chicken served with steamed white rice and vegetables.",Neutral
+"The battery capacity is listed as 4500 milliamp hours by the manufacturer.",Neutral
+"The product dimensions are 25 centimeters in length and 10 centimeters wide.",Neutral
+"The museum is open Tuesday through Sunday from 9 AM until 5 PM.",Neutral
+"The keyboard connects via either Bluetooth or a 2.4 gigahertz USB dongle.",Neutral
+"The coffee shop serves standard espresso, cappuccino, and drip coffee.",Neutral
+"The application requires Android version 11 or higher to install.",Neutral
+"The headphones came in a standard brown cardboard retail box.",Neutral
+"The hotel is located approximately two miles from the international airport.",Neutral
+"The item was shipped from a distribution warehouse in Ohio.",Neutral
+"The warranty period is one year from the original date of purchase.",Neutral
+"The documentary presents interviews with several economic historians.",Neutral
+"The vehicle uses regular unleaded gasoline with an eleven gallon tank.",Neutral
+"The jacket has two side pockets and an interior zippered compartment.",Neutral
+"The store accepts credit cards, debit cards, and contactless mobile pay.",Neutral
+"The monitor supports a 1080p resolution at a sixty hertz refresh rate.",Neutral
+"The package weighed approximately three pounds according to the label.",Neutral
+"The restaurant menu has both vegetarian and meat-based options.",Neutral
+"The television comes with two HDMI ports and one optical audio output.",Neutral
+"The train arrived at the platform at 8:15 AM following the timetable.",Neutral
+"The shoes are tied with standard black laces through six eyelets.",Neutral
+"The software installation took about four minutes on Windows 11.",Neutral
+"The hotel room includes a desk, a mini refrigerator, and a television.",Neutral
+"The book contains twelve chapters across three hundred and twenty pages.",Neutral
+"The camera has a standard 1/4-inch tripod mounting screw thread.",Neutral
+"The recipe calls for two tablespoons of olive oil and salt to taste.",Neutral
+"The parcel was left on the front porch near the mailbox.",Neutral
+"The sound level was measured at approximately 55 decibels in the room.",Neutral
+"The tablet runs on a quad-core processor clocked at 2.0 gigahertz.",Neutral
+"The building has five floors accessible by two central elevators.",Neutral
+"The order was placed online on Monday and processed the following day.",Neutral
+"The device powers off automatically after ten minutes of inactivity.",Neutral
+"The breakfast menu is served daily until 10:30 AM in the dining hall.",Neutral
+"The water bottle holds 750 milliliters and is made of stainless steel.",Neutral
+"The movie was directed by an independent filmmaker from Canada.",Neutral
+"The speaker connects to audio sources via a 3.5 millimeter auxiliary jack.",Neutral
+"The apartment complex includes an on-site laundry facility for tenants.",Neutral
+"The package contains four AA alkaline batteries inside the plastic wrap.",Neutral
+"The bus route operates every twenty minutes on weekday mornings.",Neutral
+"The product is manufactured in an ISO certified production facility.",Neutral
+"The website was updated to reflect current pricing and inventory.",Neutral
+"The dish was prepared according to the traditional regional recipe.",Neutral
+"The backpack has an adjustable chest strap and padded shoulder loops.",Neutral
+"The conference was held in the convention center main ballroom.",Neutral
+"The router supports both 2.4 GHz and 5 GHz wireless frequency bands.",Neutral
+"The flight lasted three hours and forty minutes from takeoff to landing.",Neutral
+"The hotel room key is an RFID contactless plastic card.",Neutral
+"The document is provided in standard PDF format for viewing.",Neutral
+"The vehicle odometer currently displays thirty-four thousand miles.",Neutral
+"The coffee beans are sourced from farms located in central America.",Neutral
+"The smartphone case is made of clear thermoplastic polyurethane.",Neutral
+"The transaction reference number was sent to the registered email.",Neutral
+"The restaurant is situated on the corner of fifth and main street.",Neutral
+"The printer comes with starter black and color ink cartridges.",Neutral
+"The user account can be accessed through both mobile and web browsers.",Neutral
+"The room temperature was kept at 72 degrees Fahrenheit by the thermostat.",Neutral
+"The product arrived in standard retail packaging with an anti-static bag.",Neutral
+"The audio file is encoded in 320 kbps MP3 stereo format.",Neutral
+"The store operates regular business hours from Monday to Saturday.",Neutral
+"The jacket is water-resistant up to five thousand millimeters of rain.",Neutral
+"The movie was filmed on location across three different European cities.",Neutral
+"The delivery driver requested a signature upon handing over the parcel.",Neutral
+"The blender jar has measurement markings in both ounces and milliliters.",Neutral
+"The hotel provides complimentary parking in an adjacent paved lot.",Neutral
+"The operating system requires at least four gigabytes of available storage.",Neutral
+"The bicycle tires are inflated to forty-five pounds per square inch.",Neutral
+"The invoice was issued with thirty-day net payment terms.",Neutral
+"The package was delivered during the estimated morning time slot.",Neutral
+"The package contains the instruction booklet and standard accessories.",Neutral
+"The unit is available in standard gray and metallic finishes.",Neutral
+"The meeting was scheduled for three in the afternoon in room 204.",Neutral
+"The device operates on standard 110 volt AC electrical outlets.",Neutral
+"The dimensions of the shipping box are 12 by 8 by 4 inches.",Neutral
+"The store is open from nine in the morning until eight in the evening.",Neutral
+"The report includes data collected over the preceding six months.",Neutral
+"The flight connects through Denver before continuing to Seattle.",Neutral
+"The product has an average user rating of three point two out of five.",Neutral
+"The package was processed at the regional distribution center today.",Neutral
+"The device weighs approximately two hundred and twenty grams.",Neutral
+"The table is constructed from engineered wood with a veneer surface.",Neutral
+"The application was updated to version 3.0 on the app store.",Neutral
+"The item arrived via standard ground shipping in three business days.",Neutral
+"The vehicle is equipped with a four-cylinder turbocharged engine.",Neutral
+"The meal was served with a side of steamed vegetables and bread.",Neutral
+"The hotel is located fifteen minutes from the central train station.",Neutral
+"The contract has a duration of twelve months with optional renewal.",Neutral
+"The camera sensor has a resolution of twenty-four megapixels.",Neutral
+"The temperature in the convention hall was maintained at 68 degrees.",Neutral
